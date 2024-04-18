@@ -18,6 +18,7 @@ Fully responsive and modern looking landingpage.
 
 
 ## In project are used: 
+- GSAP and Three,
 - Reuseable components,
 - Responsive Web Design (RWD)
 
